@@ -57,7 +57,7 @@ gdjs.OptionsCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonPress
 }if ( gdjs.OptionsCode.condition0IsTrue_0.val ) {
 {
 {gdjs.OptionsCode.conditionTrue_1 = gdjs.OptionsCode.condition1IsTrue_0;
-gdjs.OptionsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12600172);
+gdjs.OptionsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12703692);
 }
 }}
 if (gdjs.OptionsCode.condition1IsTrue_0.val) {
@@ -75,7 +75,7 @@ if (gdjs.OptionsCode.condition1IsTrue_0.val) {
 gdjs.OptionsCode.condition0IsTrue_0.val = false;
 {
 {gdjs.OptionsCode.conditionTrue_1 = gdjs.OptionsCode.condition0IsTrue_0;
-gdjs.OptionsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12593428);
+gdjs.OptionsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12696948);
 }
 }if (gdjs.OptionsCode.condition0IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("MasterSlider"), gdjs.OptionsCode.GDMasterSliderObjects1);
@@ -202,7 +202,7 @@ gdjs.OptionsCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber
 }if ( gdjs.OptionsCode.condition0IsTrue_0.val ) {
 {
 {gdjs.OptionsCode.conditionTrue_1 = gdjs.OptionsCode.condition1IsTrue_0;
-gdjs.OptionsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12600724);
+gdjs.OptionsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12704244);
 }
 }}
 if (gdjs.OptionsCode.condition1IsTrue_0.val) {
@@ -226,7 +226,7 @@ gdjs.OptionsCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber
 }if ( gdjs.OptionsCode.condition0IsTrue_0.val ) {
 {
 {gdjs.OptionsCode.conditionTrue_1 = gdjs.OptionsCode.condition1IsTrue_0;
-gdjs.OptionsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12601804);
+gdjs.OptionsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12705324);
 }
 }}
 if (gdjs.OptionsCode.condition1IsTrue_0.val) {

@@ -13,6 +13,8 @@ gdjs.MenuCode.GDBorderObjects1= [];
 gdjs.MenuCode.GDBorderObjects2= [];
 gdjs.MenuCode.GDCreditsObjects1= [];
 gdjs.MenuCode.GDCreditsObjects2= [];
+gdjs.MenuCode.GDNewObjectObjects1= [];
+gdjs.MenuCode.GDNewObjectObjects2= [];
 
 gdjs.MenuCode.conditionTrue_0 = {val:false};
 gdjs.MenuCode.condition0IsTrue_0 = {val:false};
@@ -102,7 +104,7 @@ gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.M
 }if ( gdjs.MenuCode.condition0IsTrue_0.val ) {
 {
 {gdjs.MenuCode.conditionTrue_1 = gdjs.MenuCode.condition1IsTrue_0;
-gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12348748);
+gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12449884);
 }
 }}
 if (gdjs.MenuCode.condition1IsTrue_0.val) {
@@ -146,7 +148,7 @@ gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.M
 }if ( gdjs.MenuCode.condition0IsTrue_0.val ) {
 {
 {gdjs.MenuCode.conditionTrue_1 = gdjs.MenuCode.condition1IsTrue_0;
-gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12350988);
+gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12451900);
 }
 }}
 if (gdjs.MenuCode.condition1IsTrue_0.val) {
@@ -190,7 +192,7 @@ gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.M
 }if ( gdjs.MenuCode.condition0IsTrue_0.val ) {
 {
 {gdjs.MenuCode.conditionTrue_1 = gdjs.MenuCode.condition1IsTrue_0;
-gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12353172);
+gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12454084);
 }
 }}
 if (gdjs.MenuCode.condition1IsTrue_0.val) {
@@ -222,6 +224,8 @@ gdjs.MenuCode.GDBorderObjects1.length = 0;
 gdjs.MenuCode.GDBorderObjects2.length = 0;
 gdjs.MenuCode.GDCreditsObjects1.length = 0;
 gdjs.MenuCode.GDCreditsObjects2.length = 0;
+gdjs.MenuCode.GDNewObjectObjects1.length = 0;
+gdjs.MenuCode.GDNewObjectObjects2.length = 0;
 
 gdjs.MenuCode.eventsList3(runtimeScene);
 return;
